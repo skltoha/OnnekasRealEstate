@@ -387,6 +387,8 @@ nav ul li a {
   margin-inline: auto;
 }
 .footer-text img {
+  width: 50%;
+  margin-bottom: 10px;
 }
 .footer-text p {
   color: var(--color-agent-bg);
