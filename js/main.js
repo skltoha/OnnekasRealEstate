@@ -1,4 +1,4 @@
-(function ($) {
+$(document).ready(function ($) {
   "use strict";
 
   // Code Starts!
@@ -21,5 +21,4 @@
     scrollContainer: null, // optional scroll container selector, otherwise use window
   });
   wow.init();
-  
 })(jQuery);
