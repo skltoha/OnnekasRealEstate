@@ -21,6 +21,7 @@
 /* General setting start */
 body {
   font-family: "Josefin Sans", sans-serif;
+  overflow-x: hidden;
 }
 * {
   margin: 0;
